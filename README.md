@@ -1,8 +1,12 @@
 # Tracker-Project
 This is my Diploma final year project developed by me and my team.
 Developed in Android studio for mobile application and one Arduino program.
-We Designed and Developed a tracking device which fetch the location of device/laptop/vehicle even if it is not connected to internet and sends it to mobile application which shows location on google maps.
+
+We Designed and Developed a tracking device that fetches the location of the device/laptop/vehicle even if it is not connected to the internet and sends it to a mobile application which shows the location on google maps.
+
+
 Below is Abtract of Project:
+
 A Tracking Device is an electronic device installed in any vehicle or laptop or any device to enable the owner or a third party to track the vehicle's location. Offline location tracking is an emerging trend that locates users even if they are not connected to the internet.
 
 The work focused on android based technology by modifying GPS for offline location tracking. This project proposed to design a tracking system that works using GPS and GSM technology, which would be the cheapest source of vehicle tracking and it would work as anti-theft system.
